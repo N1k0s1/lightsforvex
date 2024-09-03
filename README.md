@@ -22,3 +22,4 @@
 
 7. **Run the Code:**
    - After the code is uploaded, you can run it directly from the VEX Robot Brain. Navigate to the program menu on the Brain's screen, select your program, and press the run button.
+      ![image](https://github.com/user-attachments/assets/a409b454-2cf5-42f5-a8fe-61877f10683d)
